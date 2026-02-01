@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/PC-SyncClient.dir/PC-SyncClient.cpp.o" -o PC-SyncClient  -Wl,-rpath,/usr/local/lib: /usr/local/lib/libvsomeip3.so.3.6.1 -lpthread

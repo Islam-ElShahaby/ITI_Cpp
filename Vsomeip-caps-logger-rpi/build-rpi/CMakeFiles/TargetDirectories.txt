@@ -1,0 +1,7 @@
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-rpi/CMakeFiles/Raspberry-Server.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-rpi/CMakeFiles/edit_cache.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-rpi/CMakeFiles/rebuild_cache.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-rpi/CMakeFiles/list_install_components.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-rpi/CMakeFiles/install.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-rpi/CMakeFiles/install/local.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-rpi/CMakeFiles/install/strip.dir

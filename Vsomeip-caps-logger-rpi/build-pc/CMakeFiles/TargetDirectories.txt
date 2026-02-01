@@ -1,0 +1,7 @@
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-pc/CMakeFiles/PC-SyncClient.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-pc/CMakeFiles/edit_cache.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-pc/CMakeFiles/rebuild_cache.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-pc/CMakeFiles/list_install_components.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-pc/CMakeFiles/install.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-pc/CMakeFiles/install/local.dir
+/home/mrdark/ITI/workspace/ITI_Cpp/Vsomeip-caps-logger-rpi/build-pc/CMakeFiles/install/strip.dir

@@ -1,0 +1,1 @@
+/home/mrdark/x-tools/aarch64-rpi3-linux-gnu/bin/aarch64-rpi3-linux-gnu-g++ "CMakeFiles/Raspberry-Server.dir/Rsapberry-Server.cpp.o" -o Raspberry-Server  -Wl,-rpath,/home/mrdark/rpi_build/install/lib: /home/mrdark/rpi_build/install/lib/libvsomeip3.so.3.6.1 -lpthread
